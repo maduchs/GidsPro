@@ -20,7 +20,7 @@ GidsPro is designed to improve mentorship programs by automating routine tasks, 
 ## Installation and Usage  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/madxwho/GidsPro
+   git clone https://github.com/maduchs/GidsPro
    
 ## Future Enhancements
 - Integration of notification systems for reminders and updates.
